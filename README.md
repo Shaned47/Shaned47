@@ -36,5 +36,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaned47&show_icons=true&locale=en" alt="shaned47" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shaned47&" alt="shaned47" />
+<p><img align="right" width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=shaned47&" alt="shaned47" />
 <img align="left" alt="coding" width=350 height=200 src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif"></p>
