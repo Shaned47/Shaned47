@@ -1,11 +1,14 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 
-<h1 align="center">Hi 👋, I'm Sayan Das</h1>
+<h1 align="center" style>Hi 👋, I'm Sayan Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaned47&label=Profile%20views&color=0e75b6&style=flat" alt="shaned47" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaned47" alt="shaned47" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaned47&label=Profile%20views&color=0e75b6&style=flat" alt="shaned47" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaned47" alt="shaned47" /></a> 
+<img align="right" alt="coding" width=120 height=120 src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif"></p>
+
 
 - 🔭 I’m currently working on **My Personal Portfolio Website**
 
@@ -14,6 +17,7 @@
 - 📫 How to reach me **sayandasofficial47@gmail.com**
 
 - ⚡ Fun fact **I am a book worm and a gamer**
+
 
 <img align="right" alt="coding" width=350 src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
@@ -32,4 +36,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaned47&show_icons=true&locale=en" alt="shaned47" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaned47&" alt="shaned47" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shaned47&" alt="shaned47" />
+<img align="left" alt="coding" width=350 height=200 src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif"></p>
